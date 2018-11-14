@@ -1,4 +1,5 @@
 Tworzenie nowych rewizji oraz sprawdzanie stanu projektu
+
 1. Utwórz nowe repozytorium o następującej strukturze:
 	- A
 		- file1.txt
